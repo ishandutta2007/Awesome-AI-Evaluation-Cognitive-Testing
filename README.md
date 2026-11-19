@@ -203,7 +203,7 @@ Contributions, updates, and corrections are warmly welcomed! To suggest a new Sa
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-tool-name`).
 3. ✍️ **Add your entry** under the appropriate section:
    - For **SaaS tools**: Provide exact company scale data, verified starting tier pricing, and clear free-tier limits.
-   - For **Open-Source tools**: Include a social star badge linking to the repository's stargazers page and ensure proper categorization.
+   - For **Open-Source tools**: Include a social Stars_Badge linking to the repository's stargazers page and ensure proper categorization.
 4. 📝 **Maintain alphabetical or sorted order** as specified.
 5. 🚀 **Submit a Pull Request** with a brief summary of the project and official documentation links.
 
